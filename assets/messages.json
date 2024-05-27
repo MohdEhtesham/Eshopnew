@@ -1,0 +1,130 @@
+{
+  "messages": {
+    "success": {
+      "1003": {
+        "en": "Donor application added successfully.",
+        "es": "Solicitud de donante agregada con éxito."
+      },
+      "1004": {
+        "en": "Donor application updated successfully.",
+        "es": "Solicitud de donante actualizada con éxito."
+      },
+      "1005": {
+        "en": "Donor application submitted successfully.",
+        "es": "Solicitud de donante enviada con éxito."
+      },
+      "1006": {
+        "en": "Patient application updated successfully.",
+        "es": "Solicitud de paciente actualizada con éxito."
+      },
+      "1007": {
+        "en": "Support ticket raised successfully",
+        "es": "Ticket de soporte creado exitosamente"
+      },
+      
+      "1009": {
+        "en": "Account logged out successfully.",
+        "es": "Sesión cerrada exitosamente."
+      },
+      "1010": {
+        "en": "Profile updated successfully.",
+        "es": "Perfil actualizado exitosamente."
+      },
+      "1011": {
+        "en": "Account deleted successfully",
+        "es": "Cuenta eliminada exitosamente"
+      },
+      "1012": {
+        "en": "Reminder send successfully.",
+        "es": "Recordatorio enviado con éxito."
+      },
+      "1013": {
+        "en": "Patient application added successfully.",
+        "es": "Solicitud de paciente agregada con éxito."
+      },
+      "1014": {
+        "en": "Patient application submitted successfully.",
+        "es": "Solicitud de paciente enviada con éxito."
+      }
+    },
+    "error": {
+      "2001": {
+        "en": "Donor application id is required!",
+        "es": "¡Se requiere el ID de la solicitud de donante!"
+      },
+      "2002": {
+        "en": "Donor application not found",
+        "es": "Solicitud de donante no encontrada"
+      },
+      "2003": {
+        "en": "transplantId or donorAppId id is required!",
+        "es": "¡Se requiere el ID de trasplante o el ID de solicitud de donante!"
+      },
+      "2004": {
+        "en": "transplantId or patientAppId id is required!",
+        "es": "¡Se requiere el ID de trasplante o el ID de solicitud de paciente!"
+      },
+      "2005": {
+        "en": "Donor applications not found",
+        "es": "Solicitudes de donante no encontradas"
+      },
+      "2006": {
+        "en": "Phone number validation failed",
+        "es": "Falló la validación del número de teléfono"
+      },
+      "2007": {
+        "en": "Account inactive. Please contact support for assistance",
+        "es": "Cuenta inactiva. Por favor, contacte al soporte para asistencia"
+      },
+      "2008": {
+        "en": "This number already exists as a %{userType}",
+        "es": "Este número ya existe como %{userType}"
+      },
+      "2009": {
+        "en": "Invalid verification code",
+        "es": "Código de verificación inválido"
+      },
+      "2010": {
+        "en": "Your account is deactivated",
+        "es": "Tu cuenta está desactivada"
+      },
+      "2011": {
+        "en": "Phone number does't exist",
+        "es": "El número de teléfono no existe"
+      },
+    
+      "2013": {
+        "en": "Your application is not filled",
+        "es": "Tu solicitud no está completa"
+      },
+      "2014": {
+        "en": "Patient application not found",
+        "es": "Solicitud de paciente no encontrada"
+      },
+      "2015": {
+        "en": "Patient application id is required!",
+        "es": "¡Se requiere el ID de la solicitud de paciente!"
+      },
+      "2016": {
+        "en": "Patient details not found",
+        "es": "Detalles del paciente no encontrados"
+      },
+      "2017": {
+        "en": "Transplant id is required!",
+        "es": "¡Se requiere el ID de trasplante!"
+      },
+      "2018": {
+        "en": "Enter valid patient id",
+        "es": "Ingrese un ID de paciente válido"
+      },
+      "2019": {
+        "en": "Transplant center not found",
+        "es": "Centro de trasplante no encontrado"
+      },
+      "2020": {
+        "en": "Email validation failed",
+        "es": "Falló la validación del correo electrónico"
+      }
+    }
+  }
+}
